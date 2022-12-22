@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,700&family=Ubuntu:ital,wght@0,500;0,700;1,400&display=swap');
+
+*{
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+}
+
+
+
+.table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.table td,.table th{
+	font-family: 'poppins';
+  padding:12px 15px;
+  text-align: center;
+  font-size:14px;
+}
+
+.table th{
+	background-color: #212121;
+	color:#ffffff;
+}
+
+.card-title{
+	font-family: 'poppins';
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
