@@ -44,5 +44,5 @@ The University Management System with Result Management and Attendance System is
 # Support
 For any issues or questions related to the University Management System with Result Management and Attendance System, please contact the developer at saifsunny56@gmail.com.
 
-License
+# License
 The University Management System with Result Management and Attendance System is released under the MIT License. You are free to use, modify, and distribute the system as per your requirements. However, the developer is not responsible for any damage caused by the system or any modifications made to it.
